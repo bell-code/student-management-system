@@ -1,0 +1,29 @@
+{
+  "name": "node-express-rest-api",
+  "version": "1.0.0",
+  "description": "A node rest api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bell-code/APIs.git"
+  },
+  "author": "Digamber Rawat <digamber@positronx.io> (https://positronx.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bell-code/APIs/issues"
+  },
+  "homepage": "https://github.com/bell-code/APIs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.17",
+    "touch-cli-windows": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
